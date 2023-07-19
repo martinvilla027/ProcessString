@@ -1,5 +1,6 @@
 # ProcessString
 Process String Algorithm
+
 There is a string "sdfgabcwetrrytruyrtuabcpotre!@#abcprtort" - see above.
         The task is to implement the following method:
 
