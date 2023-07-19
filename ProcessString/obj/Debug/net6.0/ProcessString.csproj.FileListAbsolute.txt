@@ -1,0 +1,15 @@
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\bin\Debug\net6.0\ProcessString.exe
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\bin\Debug\net6.0\ProcessString.deps.json
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\bin\Debug\net6.0\ProcessString.runtimeconfig.json
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\bin\Debug\net6.0\ProcessString.dll
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\bin\Debug\net6.0\ProcessString.pdb
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\obj\Debug\net6.0\ProcessString.csproj.AssemblyReference.cache
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\obj\Debug\net6.0\ProcessString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\obj\Debug\net6.0\ProcessString.AssemblyInfoInputs.cache
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\obj\Debug\net6.0\ProcessString.AssemblyInfo.cs
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\obj\Debug\net6.0\ProcessString.csproj.CoreCompileInputs.cache
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\obj\Debug\net6.0\ProcessString.dll
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\obj\Debug\net6.0\refint\ProcessString.dll
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\obj\Debug\net6.0\ProcessString.pdb
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\obj\Debug\net6.0\ProcessString.genruntimeconfig.cache
+C:\Users\Martín Villa\Desktop\ProcessString\ProcessString\obj\Debug\net6.0\ref\ProcessString.dll
